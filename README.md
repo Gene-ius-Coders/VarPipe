@@ -9,7 +9,7 @@ Put all of the files in a folder. Then, from [here](https://github.com/arq5x/bed
 ```bash
 ./pipeline.sh -i [data_location.fastq] -r [reference_location.fasta] -o [output_location] -t true -b true -p 0.05
 ```
-You can see more example with:
+More examples can be found as follows:
 ```bash
 ./pipeline.sh -h
 ```
